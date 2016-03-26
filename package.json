@@ -1,0 +1,39 @@
+{
+  "name": "wezend-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^6.0.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "bootstrap-loader": "^1.0.10",
+    "bootstrap-sass": "^3.3.6",
+    "css-loader": "^0.23.1",
+    "eslint": "^2.5.1",
+    "file-loader": "^0.8.5",
+    "imports-loader": "^0.6.5",
+    "jquery": "^2.2.2",
+    "lodash": "^4.6.1",
+    "node-sass": "^3.4.2",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-router": "^2.0.1",
+    "redux": "^3.3.1",
+    "resolve-url-loader": "^1.4.3",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
